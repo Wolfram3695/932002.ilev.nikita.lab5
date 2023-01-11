@@ -50,9 +50,12 @@ button{
 .news{
     display: none;
     width: 30%;
-    margin: 200px auto;
+    margin: 300px auto;
+    padding: 20px;
+    background-color: #e1ff73;
+    font-size: 14px;
 }
 
-#new1{
-    
+h1{
+    text-align: center;
 }
